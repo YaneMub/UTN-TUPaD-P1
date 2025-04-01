@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Mubilla, Yanela Luciana*  
+- **Nombre:** Mubilla, Yanela Luciana  
 - **Comisión:** M2025-8 
 
 ## 📂 Descripción del Repositorio  
